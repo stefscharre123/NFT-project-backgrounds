@@ -1,0 +1,15 @@
+{
+  "name": "Backgrounds #1",
+  "description": "nice backgrounds",
+  "image": "ipfs://QmUPhDh9U2GjnkeRdkmgEm7QkznjXgNMtSuBfyDNncnAsL/01.jpg",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Triangles"
+    }
+  ]
+}
